@@ -1,4 +1,4 @@
-  <h3 align="center">Advanced Astro v4 - i18n</h3>
+  <h3 align="center">Advanced Astro v5 - i18n</h3>
 
   <p align="center">
     This Astro advanced kit includes a pre-configured multi-language setup, along with five pages filled with CodeStitch components. Everything is ready to go right from the start, offering a fantastic introduction to the advantages of a Static Site Generator, complete with LESS preprocessing and a blog powered by Astro’s content collections. 
@@ -31,7 +31,7 @@
 ## Overview
 
 This Advanced kit includes a pre-configured <a href="https://www.astro.build">Astro</a> environment, which
-allows for repeated components, centralized data and greater room to scale as your clients grow. The kit runs the latest major Astro version, v4. On top of this, internationalization has been provided througha [the Astrolicious i18n integration](https://github.com/astrolicious/i18n) to create a multilingual website, scalable to as many languages as necessary. The blog is powered by Astro's Content Collections. This can easily be adapted to anything which requires changing content, such as menus, job listing boards, portfolios and much more. It could even be extended by a CMS to allow your clients to manage their content on their own.
+allows for repeated components, centralized data and greater room to scale as your clients grow. The kit runs the latest major Astro version, v5. On top of this, internationalization has been provided througha [the Astrolicious i18n integration](https://github.com/astrolicious/i18n) to create a multilingual website, scalable to as many languages as necessary. The blog is powered by Astro's Content Collections. This can easily be adapted to anything which requires changing content, such as menus, job listing boards, portfolios and much more. It could even be extended by a CMS to allow your clients to manage their content on their own.
 
 An example website has also been provided, with easy substitution of website sections possible through the use of <a href="https://codestitch.app/">CodeStitch's
 vanilla component library</a>. This kit aims to get any project off the ground in as little time as possible, with deployment being possible in as little as two minutes. 
@@ -84,7 +84,7 @@ Only the vanilla web technologies are _required_ before using this kit, with fam
 
 ## Features
 
-* Runs on Astro v4
+* Runs on Astro v5
 * i18n setup ready to go, complete with routing and LanguageSelect component
 * Dark mode
 * Astro's `<ViewTransitions />` integration
